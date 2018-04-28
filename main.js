@@ -15,3 +15,7 @@ var function multiplicacion(a,b){
 var function division(a,b){
 	return a/b;
 }
+
+var function potencia2(a,b){
+	return a*a;
+}
