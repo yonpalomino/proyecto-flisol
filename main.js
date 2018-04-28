@@ -17,5 +17,5 @@ var function division(a,b){
 }
 
 var function potencia2(a,b){
-	return a*a;
+	return a^b;
 }
